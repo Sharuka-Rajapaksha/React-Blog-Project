@@ -1,18 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './Components/Home/Home';
 
-
+/**
+ * 
+ * 
 function MainPage(){
 	return(
 		<h1> Welcome to React! </h1>
 	);
 }
 
+ */
+
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to my app</h1>
-      <MainPage/>
+    
+    <br></br>
+    <br></br>
+    <br></br>
+          <Home/>
     </div>
   );
 }
