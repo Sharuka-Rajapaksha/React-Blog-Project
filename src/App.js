@@ -1,5 +1,6 @@
 import './App.css';
-import Blog3 from './Components/Blog3/Blog3';
+import RespondingToEvents from './RB5/RespondingToEvents';
+//import RenderingList from './ReactBlog4/RenderingList'
 
 /**
  * 
@@ -16,12 +17,10 @@ function App() {
   return (
     <div className="App">
     
-    <br></br>
-    <br></br>
-    <br></br>
-          <Blog3/>
+      <RespondingToEvents/>
     </div>
   );
 }
+
 
 export default App;
