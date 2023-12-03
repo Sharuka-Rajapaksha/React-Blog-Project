@@ -1,5 +1,5 @@
 import './App.css';
-import Home from './Components/Home/Home';
+import Blog3 from './Components/Blog3/Blog3';
 
 /**
  * 
@@ -19,7 +19,7 @@ function App() {
     <br></br>
     <br></br>
     <br></br>
-          <Home/>
+          <Blog3/>
     </div>
   );
 }
